@@ -1,0 +1,21 @@
+{
+  "name": "app-root",
+  "homepage": "https://github.com/binhbbui411/Web-Components-Testing",
+  "authors": [
+    "Binh Bui <binh@vaadin.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^2.0.0",
+    "paper-tooltip": "^2.1.1"
+  }
+}
